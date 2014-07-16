@@ -1,0 +1,29 @@
+{
+  "name": "lame-stream",
+  "description": "stream2 wrapper of LAME",
+  "version": "1.0.1",
+  "main": "lib/index.js",
+  "scripts": {},
+  "homepage": "https://github.com/jacobbubu/lame-stream",
+  "author": "Rong Shen <rong.shen@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jacobbubu/lame-stream.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jacobbubu/gulp-upyun/issues"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "coffee-script": "^1.7.1",
+    "gulp": "^3.8.5",
+    "gulp-coffee": "^2.0.1",
+    "gulp-rimraf": "^0.1.0",
+    "gulp-util": "^2.2.20"
+  },
+  "dependencies": {},
+  "keywords": [
+    "lame",
+    "stream"
+  ]
+}
